@@ -15,4 +15,4 @@ laurea (286)
 degree_id, inserire un valore casuale)
 10. Cambiare il numero dell’ufficio del professor Pietro Rizzo in 126
 11. Eliminare dalla tabella studenti il record creato precedentemente al punto 9
-12. -->
+-->
